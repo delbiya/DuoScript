@@ -1,5 +1,3 @@
-Here's a `README.md` file for your Duoscript project, reflecting the new usage instructions and other relevant details:
-
 ```markdown
 # Duoscript
 
